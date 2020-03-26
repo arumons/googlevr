@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 67c887f008b5a491097db459fef690a6
+guid: 404b3ceaddd15436fb67f60f947c6a2a
 folderAsset: yes
 PluginImporter:
   externalObjects: {}
@@ -10,7 +10,6 @@ PluginImporter:
   isPreloaded: 0
   isOverridable: 0
   isExplicitlyReferenced: 0
-  validateReferences: 1
   platformData:
   - first:
       Any: 
